@@ -19,7 +19,7 @@ Mise en place d'un listing automatique sur une 2e page via réglage-lecture-page
 Création d'article qui peuvent mettre en avant mes compétences (Contenue Lorem Ipsum pour l'instant)
 Ajout d'un menu via apparence-menu
 Création d'une page "Contact"
-Téléchargement de l'extension Contact Form 7
+Téléchargement de l'extension Contact Form 7 pour crée un formulaire
 
 # Jour 2
 Ajout d'un .gitignore pour les images qui passe pas dans le sourcetree 
@@ -37,3 +37,9 @@ Mise en place d'une image d'arrière plan pour le footer
 Modification de l'image Adobe xD (Ancienne Pixéliser)
 Création d'une étiquette Découverte et une Création 
 Mise en place du footer sur toutes les pages sauf Portfolio et les articles (Le builder ne l'autorise pas)
+Ajout d'une icone sur le site 
+Ajout d'une vidéo démonstratice (a remplacer par la vidéo que je vais tournée)
+Remplacement de l'extension Contact Form 7 par WPFroms Lite
+Ajout d'un lien hypertexte sur "Aix-les-Bains" dans le header et footer qui amène sur un lien maps Aix-Les-Bains
+
+
