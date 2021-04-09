@@ -14,11 +14,21 @@ Mise à jour des traduction demander par wordpress
 Faire une page d'acceuil statique, Réglages-lecture-page statique-page d'acceuil ( ici c'était ma pagre d'exemple muté en page d'aceuil)
 Modification du thème, menu de gauche-page-page d'accueil-recherche de thème avec mot clé portfolio-téléchargement du thème Teluro
 Téléchargement d'une extension (demander avec mon thème) Builder Colibri
+Téléchargement d'une extension pour partager (Social Media Share Buttons Popup & Pop Up Social Sharing Icons)
 Mise en place d'un listing automatique sur une 2e page via réglage-lecture-page des articles-selection de la page désiré
-Création d'article d'
-
-
-
-Création d'article en Lorem ipsum, titres acticles tirés du journal le 20min, photos en liens avec les articles prisent sur google
-Filiation de ma page d'accueil (parent) avec ma page de listing automatique(enfant d'accueuil)
+Création d'article qui peuvent mettre en avant mes compétences (Contenue Lorem Ipsum pour l'instant)
 Ajout d'un menu via apparence-menu
+Création d'une page "Contact"
+Téléchargement de l'extension Contact Form 7
+
+# Jour 2
+Ajout d'un .gitignore pour les images qui passe pas dans le sourcetree 
+Ajout de page Design et Développement avec mes projets en cours et réaliser 
+Mise en forme du menu , Des titres de pages
+Changement des url pour le SEO 
+Changement d'extension de partage (AddToAny Share Buttons)
+Ajout de l'extension XML Sitemap & Google News pour le sitemap
+Ajout des mentions légal avec Subdelirium sur une nouvelle page "Mention Légale"
+Ajout D'un footer (Recherche couleur avec toolki) 
+
+# Jour 3
