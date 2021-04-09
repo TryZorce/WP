@@ -25,7 +25,7 @@ Téléchargement de l'extension Contact Form 7
 Ajout d'un .gitignore pour les images qui passe pas dans le sourcetree 
 Ajout de page Design et Développement avec mes projets en cours et réaliser 
 Mise en forme du menu , Des titres de pages
-Changement des url pour le SEO 
+Optimisation de l'url pour le SEO
 Changement d'extension de partage (AddToAny Share Buttons)
 Ajout de l'extension XML Sitemap & Google News pour le sitemap
 Ajout des mentions légal avec Subdelirium sur une nouvelle page "Mention Légale"
