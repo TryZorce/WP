@@ -32,3 +32,8 @@ Ajout des mentions légal avec Subdelirium sur une nouvelle page "Mention Légal
 Ajout D'un footer (Recherche couleur avec toolki) 
 
 # Jour 3
+Création d'un footer avec lien vers 
+Mise en place d'une image d'arrière plan pour le footer
+Modification de l'image Adobe xD (Ancienne Pixéliser)
+Création d'une étiquette Découverte et une Création 
+Mise en place du footer sur toutes les pages sauf Portfolio et les articles (Le builder ne l'autorise pas)
