@@ -41,5 +41,5 @@ Ajout d'une icone sur le site
 Ajout d'une vidéo démonstratice (a remplacer par la vidéo que je vais tournée)
 Remplacement de l'extension Contact Form 7 par WPFroms Lite
 Ajout d'un lien hypertexte sur "Aix-les-Bains" dans le header et footer qui amène sur un lien maps Aix-Les-Bains
-
+Ajout d'un article Moodboard et Developement Jeux
 
